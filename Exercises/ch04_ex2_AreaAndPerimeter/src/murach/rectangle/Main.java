@@ -3,6 +3,7 @@ package murach.rectangle;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
+// TEACHER NOTES:  This class should be called Rectangle according to the exercise instructions #2
 public class Main {
 
     public static void main(String args[]) {
